@@ -16,7 +16,7 @@ A Flutter-based e-commerce app that allows users to browse and purchase products
 ### 1️⃣ **Clone the Repository**
 
 ```sh
-git clone https://github.com/ravishsingla03/flutter-ecommerce-app.git
+git clone [https://github.com/ravishsingla03/flutter-ecommerce-app.git](https://github.com/ravishsingla03/E_commerce.git)
 cd flutter-ecommerce-app
 ```
 
